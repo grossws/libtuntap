@@ -3,7 +3,7 @@
 ## Requirments
 * Linux 2.6+ (should work in 2.4, but I haven't tested)
 * Python 2.7+/3.2+
-* gcc 4.x (for build)
+* gcc 4.x+ (for build)
 * python-distutils
 
 ## API
